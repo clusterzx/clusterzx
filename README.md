@@ -1,4 +1,4 @@
-### Hello Stranger ... :tw-1f30f:
+### Hello Stranger ...
 
 - 🔭 I’m currently working on "A.I." malware detection and analysis
 - 🌱 I’m currently learning how to survive a pandemic
