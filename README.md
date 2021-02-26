@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello Stranger ... :tw-1f30f:
 
-<!--
-**clusterzx/clusterzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on "A.I." malware detection and analysis
+- 🌱 I’m currently learning how to survive a pandemic
+- 👯 I’m looking to collaborate on MaaS, SaaS
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: clusterz[at]protonmail.com
+- ⚡ Fun fact: Covid-19 is almost worse than Windows Vista.
+
+# Stats
+
+![](https://img.shields.io/github/followers/clusterzx?label=Follower&style=social) ![](https://img.shields.io/github/downloads/clusterzx/bdo-helper/total)
+
+![](https://github-readme-stats.vercel.app/api?username=clusterzx&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clusterzx&theme=radical) 
+
+
+###Message me for projects
