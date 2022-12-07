@@ -1,6 +1,6 @@
 ### Hello Stranger ...
 
-- 🔭 I’m currently working on "A.I." malware detection and analysis
+- 🔭 I’m currently working on malware detection and analysis systems
 - 🌱 I’m currently learning how to survive a pandemic
 - 👯 I’m looking to collaborate on MaaS, SaaS
 - 💬 Ask me about ...
