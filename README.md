@@ -1,7 +1,6 @@
 ### Hello Stranger ...
 
 - 🔭 I’m currently working on malware detection and analysis systems
-- 🌱 I’m currently learning how to survive a pandemic
 - 👯 I’m looking to collaborate on MaaS, SaaS
 - 💬 Ask me about ...
 - 📫 How to reach me: clusterz[at]protonmail.com
