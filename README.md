@@ -7,6 +7,7 @@
 - ⚡ Fun fact: Covid-19 is almost worse than Windows Vista.
 
 # Favorite Project recently:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=paperless-ai)](https://github.com/clusterzx/paperless-ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=pr0lator)](https://github.com/clusterzx/pr0lator)
 
 # Stats
