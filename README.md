@@ -12,7 +12,7 @@
 
 # Stats
 
-![](https://img.shields.io/github/followers/clusterzx?label=Follower&style=social) ![](https://img.shields.io/github/downloads/clusterzx/bdo-helper/total)
+![](https://img.shields.io/github/followers/clusterzx?label=Follower&style=social) ![](https://img.shields.io/github/downloads/clusterzx/paperless-ai/total)
 
 ![](https://github-readme-stats.vercel.app/api?username=clusterzx&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clusterzx&theme=radical) 
 
