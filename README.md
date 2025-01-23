@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Covid-19 was almost worse than Windows Vista.
 
 ---
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=clusterzx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
