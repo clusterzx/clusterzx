@@ -36,9 +36,8 @@
 ## 🏆 Popular Repositories
 
 [![Paperless-AI](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=paperless-ai&theme=radical)](https://github.com/clusterzx/paperless-ai)
+[![intellissh](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=intellissh&theme=radical)](https://github.com/clusterzx/intellissh)
 [![pr0lator](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=pr0lator&theme=radical)](https://github.com/clusterzx/pr0lator)
-[![StegaCrypt](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=StegaCrypt&theme=radical)](https://github.com/clusterzx/StegaCrypt)
-[![GifRecorder](https://github-readme-stats.vercel.app/api/pin/?username=clusterzx&repo=GifRecorder&theme=radical)](https://github.com/clusterzx/GifRecorder)
 
 ---
 
