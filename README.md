@@ -41,10 +41,4 @@
 
 ---
 
-## 📫 Contact
-
-- 📧 **Email:** clusterz[at]protonmail.com
-
----
-
 Thanks for visiting! 🚀
